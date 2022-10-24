@@ -100,7 +100,7 @@ nav ul a{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 30px;
-    height: 150vh;
+    height: 140vh;
     color: white;
     width: 87vw;
     margin-left: 100px;
